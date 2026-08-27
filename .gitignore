@@ -1,0 +1,13 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local VS Code workspace (references machine-local template paths)
+*.code-workspace
+
+# Logs / deps (not used by this static site, kept as a guard)
+node_modules/
+*.log
